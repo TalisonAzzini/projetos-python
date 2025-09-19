@@ -72,4 +72,5 @@ if __name__ == "__main__":
                 break
             
             case _:
+
                 print("Opção inválida!\n")
