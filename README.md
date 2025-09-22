@@ -1,6 +1,6 @@
 <div>
   <h1>🐍 Projetos em Python</h1>
-  <p>Este repositório é para manter meus pequenos projetos e exercícios desenvolvidos em *Python*, com objetivo de praticar os conceitos da linguagem.</p></div>
+  <p>Este repositório é para manter meus pequenos projetos e exercícios desenvolvidos em <strong>Python<strong>, com objetivo de praticar os conceitos da linguagem.</p></div>
 
 <div>
   <h2>📂 Estrutura</h2>
